@@ -1,4 +1,4 @@
-# Vad är docker?
+# Att komma igång med Docker och Kubernetes
 
 Random anteckningar och snippets inför demonstration av Docker och Kubernetes.
 
