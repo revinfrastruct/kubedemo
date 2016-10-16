@@ -10,7 +10,8 @@ och är ostrukturerat men ger en bild av en generell riktning.
 Gått igenom den tidiga konstituerande diskussionen i facebookgruppen och
 lagt till saker därifrån.
 
-La till några saker som nämndes under heldagsworkshopen i Skarpnäck 15 oktober.
+La till några saker som nämndes under heldagsworkshopen i Skarpnäck 15 oktober
+2016.
 
 ### Version 1
 
