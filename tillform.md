@@ -35,11 +35,12 @@ Saknas i wireframe:
 * En URL på varje tick-meddelanden, som man kan kopiera om man vill dela
 meddelandet i sociala medier.
 * En landningssida för om man surfar direkt till adressen för ett enskilt
-ticker-meddelande. Denna landningssida ska vara samma flöde/sida i
-bakgrunden, men med en halvtransparent utskuggning av flödet och någon slags
-modal/ruta som visar det enskila meddeladet. Om man klickar utanför
-meddelandet eller på en kryssruta uppe i högra hörnet så ska modalen/rutan
-försvinna och man är tillbaka i det vanliga flödet.
+ticker-meddelande (alltså till delnings-urlen som nämns i ovanstående punkt.)
+Denna landningssida ska vara samma flöde/sida i bakgrunden, men med en
+halvtransparent utskuggning av flödet och någon slags modal/ruta som visar
+det enskila meddeladet. Om man klickar utanför meddelandet eller på en
+kryssruta uppe i högra hörnet så ska modalen/rutan försvinna och man är
+tillbaka i det vanliga flödet.
 
 ### Ticks (ticker-meddelanden):
 
