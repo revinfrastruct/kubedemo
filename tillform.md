@@ -33,7 +33,8 @@ inbillar oss att det inte behövs.
 Saknas i wireframe:
 
 * En URL på varje tick-meddelanden, som man kan kopiera om man vill dela
-meddelandet i sociala medier.
+meddelandet i sociala medier. Exempel på hur en sådan URL kan se ut:
+http://motkraft.net/tick/nmr15nov/312
 * En landningssida för om man surfar direkt till adressen för ett enskilt
 ticker-meddelande (alltså till delnings-urlen som nämns i ovanstående punkt.)
 Denna landningssida ska vara samma flöde/sida i bakgrunden, men med en
