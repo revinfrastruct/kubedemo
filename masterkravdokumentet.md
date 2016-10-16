@@ -1,7 +1,6 @@
 # Masterkravdokumentet
 
-Sammanfattning av diskussion och idéer under första konstituerande tiden på
-Mattemost-chatten (och Facebookgruppen kanske?).
+Alfred: "Typ kvällen innan Mattermost-haveriet så satt jag och gick igenom det som skrivits och försökte bara sammanfatta ner det i punkter. Jag minns inte om jag blev helt färdig med det innan haveriet. Man kan väl betrakta det som stödord för en sammanfattning av en spretig diskussion typ."
 
 ## Bakgrund
 
