@@ -32,12 +32,11 @@ inbillar oss att det inte behövs.
 
 Saknas i wireframe:
 
-* En URL på varje tick-meddelanden, som man kan kopiera om man vill dela
-meddelandet i sociala medier. Exempel på hur en sådan URL kan se ut:
-http://motkraft.net/tick/nmr15nov/312
 * En landningssida för om man surfar direkt till adressen för ett enskilt
-ticker-meddelande (alltså till delnings-urlen som nämns i ovanstående punkt.)
-Denna landningssida ska vara samma flöde/sida i bakgrunden, men med en
+ticker-meddelande. Tiden på varje tick-meddelanden ska vara en länk till
+meddelanden, som man kan kopiera om man vill dela meddelandet i sociala medier.
+Exempel på hur en sådan URL kan se ut: http://motkraft.net/tick/nmr15nov/312
+Landningssidan ska vara samma flöde/sida i bakgrunden, men med en
 halvtransparent utskuggning av flödet och någon slags modal/ruta som visar
 det enskila meddeladet. Om man klickar utanför meddelandet eller på en
 kryssruta uppe i högra hörnet så ska modalen/rutan försvinna och man är
@@ -52,8 +51,7 @@ Innehåller alltid:
 * En tid för när tickermeddelandet publicerades. Detta ska publiceras i
 formatet: "För X sekunder/minuter sedan" när den är ganska närliggande i tid,
 och efter några timmar bli ett datum och klockslag.
-* En url som man kan kopiera om man vill dela det enskilda tick-meddelandet
-i sociala medier.
+* Tiden är länkad till permalänken för den enskilda ticken.
 
 En tick kan innehålla inbäddad content från externa sajter, typ en tweet
 eller instagraminbäddning.
@@ -96,6 +94,11 @@ Därefter kommer vi att faktiskt bygga sajten Motkraft med de komponenter och
 patterns som vi definierat.
 
 ## Changelog
+
+### Version 4
+
+Länken till varje enskild tickermeddelande ska inte skrivas ut, utan det är
+tiden som är länkad till permalänken för den enskilda ticken.
 
 ### Version 3
 
