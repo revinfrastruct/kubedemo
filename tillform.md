@@ -47,7 +47,11 @@ tillbaka i det vanliga flödet.
 Innehåller alltid:
 
 * En text. Förhållandevis kort. Texten han innehålla länkar och viss stilning
-(typ fet/kursiv om sådant behov skulle uppstå).
+(typ fet/kursiv om sådant behov skulle uppstå). "Best practice" ska vara att
+en text är i twitterlängd typ, upp till max ca 300 tecken. Det är dock inte en
+begränsning som vi kommer att tvinga fram rent tekniskt, för i något slags
+akut krisläge ska det ändå kunna gå att publicera längre saker, men under i
+en "normalticker" så ska inläggen inte vara mer än 300 tecken.
 * En tid för när tickermeddelandet publicerades. Detta ska publiceras i
 formatet: "För X sekunder/minuter sedan" när den är ganska närliggande i tid,
 och efter några timmar bli ett datum och klockslag.
@@ -94,6 +98,10 @@ Därefter kommer vi att faktiskt bygga sajten Motkraft med de komponenter och
 patterns som vi definierat.
 
 ## Changelog
+
+### Version 5
+
+Om textlängd i tickermeddelanden.
 
 ### Version 4
 
